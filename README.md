@@ -6,6 +6,7 @@ Intended to be used on Hyprland.
 
 <p>This app requires:<br>
 python<br>
+python-pyqt5<br>
 wget<br>
 linux-wallpaperengine<br>
 waypaper<br>
