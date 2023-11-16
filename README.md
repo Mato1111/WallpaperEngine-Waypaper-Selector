@@ -2,7 +2,7 @@
 A PyQt5 app that lets you pick between linux-wallpaperengine and Waypaper.<br>
 Intended to be used on Hyprland.
 
-![Screenshot](https://github.com/Mato1111/WallpaperEngine-Waypaper-Selector/blob/ecf18cc4306b71c4e883469902a2654b13e95250/screenshot.png?raw=true)
+![Screenshot](https://github.com/Mato1111/WallpaperEngine-Waypaper-Selector/blob/main/Screenshots/screenshot.png?raw=true)
 
 <p>This app requires:<br>
 python<br>
