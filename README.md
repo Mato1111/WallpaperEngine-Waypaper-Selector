@@ -4,6 +4,7 @@ Intended to be used on Hyprland
 
 <p>This app requires:<br>
 python<br>
+wget<br>
 linux-wallpaperengine<br>
 waypaper<br>
 swaybg, swww, feh, or wallutils
