@@ -2,6 +2,7 @@
 A PyQt5 app that lets you pick between linux-wallpaperengine and Waypaper
 
 <p>This app requires:<br>
+python<br>
 linux-wallpaperengine<br>
 waypaper<br>
 swaybg, swww, feh, or wallutils
