@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Exec=/usr/bin/wallpaper-select
+Name=Wallpaper Select
+Icon=systemsettings
+Terminal=false
+GenericName=Wallpaper Engine and Waypaper tool
+Categories=Utility;GTK;DesktopSettings;
+Comment=Change wallpaper on Wayland
