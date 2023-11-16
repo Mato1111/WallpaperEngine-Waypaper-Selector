@@ -11,6 +11,7 @@ swaybg, swww, feh, or wallutils
 <p>
 
 To use, download and run 'install.sh'<br>
+To add it as an app that shows up in launchers, as well as getting a dedicated command, download and run 'add-to-apps.sh'<br>
 
 <p>After it is installed, run 'python ~/.config/WallpaperSelect/WallpaperSelect.py' to select a wallpaper.<br>
 If you added it to /usr/bin/, you can just run 'wallpaper-select' to select a wallpaper.<br>
