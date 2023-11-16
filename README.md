@@ -10,4 +10,5 @@ swaybg, swww, feh, or wallutils
   
 To use, download and run 'python install.py'
 
-After it is installed, run 'python ~/.config/WallpaperSelect/WallpaperSelect.py' (or 'wallpaper-select' if you added it to /usr/bin/) to select a wallpaper.
+After it is installed, run 'python ~/.config/WallpaperSelect/WallpaperSelect.py' to select a wallpaper.
+If you added it to /usr/bin/, you can just run 'wallpaper-select' to select a wallpaper.
