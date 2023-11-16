@@ -1,0 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import sys
+import os
+
+os.system("python /home/" + os.getlogin() + "/.config/WallpaperSelect/WallpaperSelect.py &")
