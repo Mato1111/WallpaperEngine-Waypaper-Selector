@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Exec=/usr/bin/wallpaper-select
+Exec=/bin/bash -c 'python /home/$USER/.config/WallpaperSelect/WallpaperSelect.py'
 Name=Wallpaper Select
 Icon=systemsettings
 Terminal=false
