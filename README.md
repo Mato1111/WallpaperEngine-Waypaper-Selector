@@ -8,7 +8,7 @@ Intended to be used on Hyprland.
 python<br>
 python-pyqt5<br>
 wget<br>
-linux-wallpaperengine<br>
+linux-wallpaperengine-git<br>
 waypaper<br>
 swaybg, swww, feh, or wallutils
 <p>
