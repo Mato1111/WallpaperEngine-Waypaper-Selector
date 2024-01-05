@@ -10,7 +10,7 @@ python-pyqt5<br>
 wget<br>
 linux-wallpaperengine-git<br>
 waypaper<br>
-swww
+swaybg, swww, feh, or wallutils
 <p>
 
 To use, download and run 'install.sh'<br>
