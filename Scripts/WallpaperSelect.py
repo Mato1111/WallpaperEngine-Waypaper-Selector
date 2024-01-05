@@ -50,13 +50,13 @@ def clicked_CWPE():
     exit(main)
 
 def clicked_H():
-    os.system("killall linux-wallpaperengine swaybg hyprpaper")
+    os.system("killall linux-wallpaperengine")
     os.system("waypaper &")
     exit(main)
 
 def clicked_R():
     if str(random.randint(1,2)) == '1':
-        os.system("killall linux-wallpaperengine swaybg hyprpaper")
+        os.system("killall linux-wallpaperengine")
         os.system("waypaper --random --restore &")
         exit(main)
     else:
